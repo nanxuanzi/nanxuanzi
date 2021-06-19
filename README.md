@@ -3,11 +3,6 @@
 ## This is me.
 
 
-<section>
-  <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/>
-  <img algin="right" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/>
-</section>
 
-![AND](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)
 
-![ANd](https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true)
+![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)![统计](https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true)
