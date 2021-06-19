@@ -5,3 +5,4 @@
 
 ![AND](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)
 
+![ANd](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
