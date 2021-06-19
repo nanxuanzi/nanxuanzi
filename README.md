@@ -3,10 +3,5 @@
 ## This is me.
 
 <section>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi" alert="常用语言"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true" alert="常用语言"/>
-  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/> 
 </section>
-
-
-
-![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)![统计](https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true)
