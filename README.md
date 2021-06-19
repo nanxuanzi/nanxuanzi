@@ -4,8 +4,8 @@
 
 
 <section>
-  <img style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/>
-  <img style="float:left;" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/>
+  <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/>
+  <img algin="right" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/>
 </section>
 
 ![AND](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)
