@@ -4,4 +4,4 @@
 
 
 ![AND](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)
-## Hey, ouuan here! :wave: [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+
