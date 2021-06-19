@@ -2,8 +2,12 @@
 
 ## This is me.
 
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/>
-<img style="float:right;" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/>
+
+<section>
+  <img style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/>
+  <img style="float:right;" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/>
+</section>
+
 ![AND](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)
 
 ![ANd](https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true)
