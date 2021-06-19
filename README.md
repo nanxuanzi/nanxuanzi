@@ -2,8 +2,6 @@
 
 ## This is me.
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"></a>
-
 ![AND](https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi)
 
 ![ANd](https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true)
