@@ -6,6 +6,6 @@
   abc
   <br/>
   <section>
-    <img align="" width="45%" height="220px" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/><img align="right" width="45%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi&layout=compact"/> 
+    <img align="left" width="45%" height="220px" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/><img align="right" width="45%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi&layout=compact"/> 
   </section>
 </details>
