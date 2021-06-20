@@ -1,8 +1,6 @@
 <h1 align="center">:triangular_flag_on_post:Welcome to my GitHub</h1>
 
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).
-
-<section style="background-color:black;">
   
 * 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
