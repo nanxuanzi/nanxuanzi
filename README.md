@@ -2,7 +2,7 @@
 
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).
 
-<section style="background-image: image(https://nanxuanzi.github.io/images/img/h/1.jpg)">
+<section style="background-color:black;">
   
 * 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
