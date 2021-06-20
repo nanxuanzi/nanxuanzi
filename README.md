@@ -3,7 +3,7 @@
 ## 简介
 
 <details>
-  <summary>代码统计</summary><br/>
+  <summary>Code statistics</summary><br/>
   
   * <b>未完待续...</b>
   <section>
