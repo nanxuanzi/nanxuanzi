@@ -2,7 +2,7 @@
 
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).:loudspeaker:
 
-* <b>前端：</b>HTML, CSS, Javascript
+* :upside_down_face: <b>前端：</b>HTML, CSS, Javascript
 * <b>后端：</b>Java, C, Python
 * <b>Server：</b>Windows, Linux
 * <b>:cyclone:DateBase：</b>Mysql, MOngodb
