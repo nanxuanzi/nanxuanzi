@@ -1,10 +1,13 @@
 <h1 align="center">:triangular_flag_on_post:Welcome to my GitHub</h1>
 
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).
+
+<section style="background-image: image(https://nanxuanzi.github.io/images/img/h/1.jpg)">
 * 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
 * Server：Windows, Linux
 * DateBase：Mysql, MOngodb
+</section>
 
 ## My sites.
 * [![gh-page](https://img.shields.io/badge/-github-lightgrey)](https://nanxuanzi.github.io)
