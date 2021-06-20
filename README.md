@@ -2,10 +2,10 @@
 
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).
 
-* 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
+* 后端：Java, C, Python
 * Server：Windows, Linux
-* DateBase：Mysql, MOngodb
+* :cyclone:DateBase：Mysql, MOngodb
 </section>
 
 ## My sites.
