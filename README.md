@@ -1,9 +1,9 @@
 <h1 align="center">:triangular_flag_on_post:Welcome to my GitHub</h1>
 
-## 简介
+* 会的：C，Java，Python
 
 <details>
-  <summary>代码统计</summary><br/>
+  <summary>:sweat_smile:代码统计</summary><br/>
   
   * <b>未完待续...</b>
   <section>
