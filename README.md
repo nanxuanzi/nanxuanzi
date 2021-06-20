@@ -7,9 +7,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/> 
 </section>
 
+# ab
 <details>
-<summary>展开查看</summary>
-<pre>
-  System.out.println("Hello to see U!");
-</pre>
+  <summary>代码统计</summary>
+  <pre>
+    System.out.println("Hello to see U!");
+  </pre>
 </details>
