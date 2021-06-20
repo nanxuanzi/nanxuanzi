@@ -3,7 +3,8 @@
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io)
 * 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
-* Server: Windows, Linux
+* Server：Windows, Linux
+* DateBase：Mysql, MOngodb
 
 <details>
   <summary>:sweat_smile:代码统计</summary><br/>
