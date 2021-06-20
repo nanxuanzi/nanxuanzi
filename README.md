@@ -5,7 +5,7 @@
 * :grinning: <b>前端：</b>HTML, CSS, Javascript
 * :monocle_face: <b>后端：</b>Java, C, Python
 * :upside_down_face: <b>Server：</b>Windows, Linux
-* :flushed: <b>DateBase：</b>Mysql, MOngodb
+* :flushed: <b>DateBase：</b>Mysql, MongoDB, MSsql
 </section>
 
 ## My sites.:hole: 
