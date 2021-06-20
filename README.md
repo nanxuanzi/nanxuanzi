@@ -1,12 +1,12 @@
 <h1 align="center">:triangular_flag_on_post:Welcome to my GitHub</h1>
 
-## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io)
+## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).
 * 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
 * Server：Windows, Linux
 * DateBase：Mysql, MOngodb
 
-## My site.
+## My sites.
 * [https://img.shields.io/badge/-github-lightgrey](nanxuanzi.github.io)
 * [https://img.shields.io/badge/-gitee-red](nanxuanzi.gitee.io)
 <details>
