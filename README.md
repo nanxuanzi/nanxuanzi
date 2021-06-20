@@ -2,8 +2,6 @@
 
 ## Hi，I’am [nanxuanzi](https://nanxuanzi.github.io).
 
-![](https://music.163.com/outchain/player?type=0&id=6585057993&auto=1&height=430)
-
 * 后端：Java, C, Python
 * 前端：HTML, CSS, Javascript
 * Server：Windows, Linux
