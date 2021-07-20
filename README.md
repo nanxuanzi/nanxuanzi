@@ -12,9 +12,9 @@
 * [![gh-page](https://img.shields.io/badge/-github-lightgrey)](https://nanxuanzi.github.io)
 * [![gt-page](https://img.shields.io/badge/-gitee-red)](https://nanxuanzi.gitee.io)
 <details>
-  <summary>:sweat_smile:代码统计</summary><br/>
+  <summary>:sweat_smile:Code statistics </summary><br/>
   
-  * <b>未完待续...</b>
+  * <b>To be continued ...</b>
   <section>
     <img align="left" width="45%" height="220px" src="https://github-readme-stats.vercel.app/api?username=nanxuanzi&show_icons=true"/><img align="right" width="45%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanxuanzi&layout=compact"/> 
   </section>
